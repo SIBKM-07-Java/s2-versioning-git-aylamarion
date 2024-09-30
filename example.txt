@@ -1,1 +1,1 @@
-Ini adalah contoh teks pada cabang branch_A
+Ini adalah contoh teks pada cabang ChildAyla
