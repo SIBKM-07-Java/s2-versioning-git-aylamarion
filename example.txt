@@ -1,3 +1,6 @@
 Ini adalah contoh teks pada cabang ParentAyla
 
+<<<<<<< HEAD
 Haloo ini perubahannya
+halo ada perubahannya
+>>>>>>> d77c596786ecb63db9d893427797ffd6b85142d5
