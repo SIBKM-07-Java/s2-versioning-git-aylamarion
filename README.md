@@ -2,19 +2,19 @@
 ## Ayla Marion
 
 Menginisialisasi repo git di laptop
-![alt text](image.png)
+![alt text](d:\MSIB\Tugas\Screenshot 2024-10-01 070130.png)
 
 Membuat Branch Parent(ParentAyla) yang berisi file example.txt
-![alt text](image-1.png)
+![alt text]()
 
 Kemudian membuat branch child(ChildAyla) yang berisi file example2.txt
-![alt text](image-2.png)
+![alt text]()
 
 Melakukan Merge Fast FOrward antara ParentAyla & ChildAyla
-![alt text](image-3.png)
+![alt text]()
 
 Kemudian Mengirimkan commit yang baru ke dalam repository
-![alt text](image-4.png)
+![alt text]()
 
 Menampilkan dari history/commit yang sudah dilakukan
-![alt text](image-5.png)
+![alt text]()
