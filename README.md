@@ -2,7 +2,7 @@
 ## Ayla Marion
 
 Menginisialisasi repo git di laptop
-![alt text](d:\MSIB\Tugas\Screenshot 2024-10-01 070130.png)
+![alt text](private/Screenshot 2024-10-01 070130.png)
 
 Membuat Branch Parent(ParentAyla) yang berisi file example.txt
 ![alt text]()
