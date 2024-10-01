@@ -1,6 +1,6 @@
-#  **Laporan Tugas Fast Forward**
+#  **Laporan Tugas VERSIONING**
 ## Ayla Marion
-
+## TUGAS FAST FORWARD
 Menginisialisasi repo git di laptop
 ![Screenshot 2024-10-01 070130](https://github.com/user-attachments/assets/aea21d7c-86e2-40e1-b8e8-a899cc63b3f6)
 
@@ -18,3 +18,31 @@ Kemudian Mengirimkan commit yang baru ke dalam repository
 
 Menampilkan dari history/commit yang sudah dilakukan
 ![Screenshot 2024-10-01 070527](https://github.com/user-attachments/assets/449f76d3-c3a4-495d-ac2a-305c7209e83e)
+
+
+## TUGAS THREE WAY MERGE
+1.  melakukan git clone dan checkout branch ParentAyla
+
+2. Membuat dan checkout branch ChildAyla
+
+3. Melakukan perubahan pada example.txt di branch ChildAyla
+
+4. melakukan commit dan push branch child
+
+5. melakukan checkout branch Parent
+
+6. melakukan perubahan pada example.txt di branch parent
+
+7. melakukan commit dan push branch parent
+
+8. checkout branch Child
+
+9. melakukan pull request dari parent ke child
+
+10. hasil perbaikan
+
+11. commit perbaikan
+
+12. membuat pull request
+
+13. hasil log
